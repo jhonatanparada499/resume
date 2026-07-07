@@ -48,8 +48,8 @@ jobs:
         cd repo/
         mkdir -p overleaf_remote_src
         cp -r ../artifacts/* ./overleaf_remote_src
-        git config user.name "${{ github.actor }}"
-        git config user.email "${{ github.actor }}@users.noreply.github.com"
+        git config user.name "jhonatanparada499"
+        git config user.email "jhonatanparada499@gmail.com"
         git add .
         if [[ $(git diff HEAD --stat) == '' ]]; then (echo 'Working tree is clean') 
         else (git commit -m "Sync with overleaf remote"  && git push) fi
