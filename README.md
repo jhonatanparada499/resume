@@ -3,4 +3,4 @@ Repository to track [Overleaf](https://https://overleaf.com) Resume using the [O
 
 ![resume](./imgs/resume-top.png)
 
-Cookie extracted in July 7, 2026
+Cookie extracted in July 7, 2026  
