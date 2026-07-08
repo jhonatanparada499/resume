@@ -1,4 +1,4 @@
-name: Overleaf Sync with Git
+name: Overleaf Sync with Git 1.0
 on:
   schedule:
     - cron: "0/5 * * * *"
