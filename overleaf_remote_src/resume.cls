@@ -165,7 +165,7 @@
     date
 ]{
     {
-        \textbf{\commandkey{certification}}, \commandkey{organization} - \commandkey{date}
+        \textbf{\commandkey{certification}}, \commandkey{organization} -- \commandkey{date}
     }
 }
 
