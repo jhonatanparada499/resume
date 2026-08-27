@@ -15,7 +15,7 @@ sudo apt install texlive-latex-base \
 	latexmk
 ```
 
-### build Command from Root Dir
+### Build Command from Root Dir
 ```
 latexmk -cd overleaf_remote_src/resume.tex -outdir=../build
 ```
