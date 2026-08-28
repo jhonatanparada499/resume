@@ -95,6 +95,8 @@ INPUT ./Sections/experience.tex
 INPUT ./Sections/experience.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr8c.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/helvetic/phvr8c.vf
+INPUT ./Sections/research.tex
+INPUT ./Sections/research.tex
 INPUT ./Sections/projects.tex
 INPUT ./Sections/projects.tex
 INPUT ./Projects/school-registration-system.tex

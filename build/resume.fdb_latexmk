@@ -1,7 +1,7 @@
 # Fdb version 4
-["lualatex"] 1787856336.14604 "resume.tex" "/home/jhon/Projects/resume/build/resume.pdf" "resume" 1787856337.49294 0
-  "/home/jhon/Projects/resume/build/resume.aux" 1787856337.38566 162 55205a9e8a8eca30d36afb389b0617bf "lualatex"
-  "/home/jhon/Projects/resume/build/resume.out" 1787856337.23766 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+["lualatex"] 1787938312.6896 "resume.tex" "/home/jhon/Projects/resume/build/resume.pdf" "resume" 1787938313.98792 0
+  "/home/jhon/Projects/resume/build/resume.aux" 1787938313.85838 162 55205a9e8a8eca30d36afb389b0617bf "lualatex"
+  "/home/jhon/Projects/resume/build/resume.out" 1787938313.71436 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb8c.tfm" 1136768653 1344 2b79eb16daca0e8fd7cff8a5505df513 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1136768653 4484 b828043cbd581d289d955903c1339981 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm" 1136768653 6628 34c39492c0adc454c1c199922bba8363 ""
@@ -80,15 +80,16 @@
   "Sections/certifications.tex" 1787854671.83547 829 a355f88a62a2e84770a3ce740174559c ""
   "Sections/contact-info.tex" 1787854671.83577 208 e32d08900c955b90a30ceb1b2e772af1 ""
   "Sections/education.tex" 1787854671.83577 886 a4b946d677f299bfccc4e113efefb1b7 ""
-  "Sections/experience.tex" 1787855386.52292 3818 5dee8191f9e9bf73ea946008c5a9bc8e ""
+  "Sections/experience.tex" 1787937694.66384 1426 4b4d3e5e3987d741d36b7e4a5d590f5e ""
   "Sections/projects.tex" 1787854671.83577 373 debe54464b5aa9d86e66a35408935569 ""
+  "Sections/research.tex" 1787937384.0307 1422 d8f2953f207632653b4ba25ff915cc02 ""
   "Sections/skills.tex" 1787854671.83577 896 2838160b79c4647de517b2a3f226d01a ""
   "Skills/devops.tex" 1787854671.83624 58 117e7f430eafcf8e162ac89b45cac1c2 ""
   "Skills/platforms.tex" 1787854671.83624 86 d0a240bbb44ab492aa97bfb1fa44610d ""
   "Skills/programming_languages.tex" 1787854671.83624 33 b89bbf368d04958d02ec7a8ee825abab ""
   "Skills/security-and-networking.tex" 1787854671.83624 70 0ae89d42ced56479102501963f270f27 ""
-  "resume.cls" 1787855629.52085 6262 6ead59535f07522a5bcc0d3dc1ac6829 ""
-  "resume.tex" 1787854671.83624 607 66d6d843a0eb180f5f1d8eb88d2cb120 ""
+  "resume.cls" 1787938311.12902 6805 64697e6aea9f421f6d893ecb6a8ac6e4 ""
+  "resume.tex" 1787938152.21723 674 ce22136349d5887392e8160d21563661 ""
   (generated)
   "/home/jhon/Projects/resume/build/resume.aux"
   "/home/jhon/Projects/resume/build/resume.log"
