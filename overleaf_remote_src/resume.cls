@@ -218,17 +218,34 @@
 }%
 
 \newkeycommand{\positionItem}[
+% -------------- Research -------------
+\newenvironment{researchSection}[1]{%
+    \sectionTitle{#1}%
+    \begin{list}{}{ % List for each highlight in the section
+        \setlength{\leftmargin}{0em} % Margin within the section
+    }%
+        \item[]%
+    }{%
+    \end{list}%
+}%
+
+\newkeycommand{\researchItem}[
+    company,
     position,
+    location,
     duration
 ]{%
-\hspace*{1.5ex} \textbf{%
+\textbf{%
+        \commandkey{company}
+    } \hfill {%
+        \commandkey{location}%
+    } \\ \hspace*{1.5ex} \textbf{
         \commandkey{position}
     } \hfill {%
         \commandkey{duration}%
     }
-\vspace{-0.5em}%
+    \vspace{-0.5em}%
 }%
-
 % ---------------------------------------
 
 % ----------------- Project -------------
