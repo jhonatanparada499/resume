@@ -216,8 +216,8 @@
     }
     \vspace{-0.5em}%
 }%
+% ---------------------------------------
 
-\newkeycommand{\positionItem}[
 % -------------- Research -------------
 \newenvironment{researchSection}[1]{%
     \sectionTitle{#1}%
@@ -256,9 +256,16 @@
         \commandkey{location}%
     } \\ {%
         \commandkey{keyHighlight}%
+
+\newkeycommand{\positionItem}[
+    position,
+    duration
+]{%
+\hspace*{1.5ex} \textbf{%
+        \commandkey{position}
     } \hfill {%
         \commandkey{duration}%
     }
+\vspace{-0.5em}%
 }%
 
-% ----------------------------------------
