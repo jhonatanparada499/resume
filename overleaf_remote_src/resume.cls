@@ -253,9 +253,10 @@
     \textbf{%
         \commandkey{title}%
     } \hfill {%
-        \commandkey{location}%
-    } \\ {%
-        \commandkey{keyHighlight}%
+        \commandkey{duration}%
+    }
+}%
+% ----------------------------------------
 
 \newkeycommand{\positionItem}[
     position,
