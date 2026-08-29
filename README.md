@@ -22,5 +22,3 @@ latexmk -cd overleaf_remote_src/resume.tex \
 ```
 
 ![resume](./imgs/resume-top.png)  
-
-Last cookie extracted in August 18, 2026  
